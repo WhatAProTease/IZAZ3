@@ -1,2 +1,6 @@
-title: My Site
-theme: minima
+title: My Affiliate Site
+description: My GitHub Pages Jekyll site
+remote_theme: bootstrapthemesco/jekyll-theme-affiliate
+
+plugins:
+  - jekyll-remote-theme
