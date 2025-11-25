@@ -1,6 +1,7 @@
-title: My Affiliate Site
-description: My GitHub Pages Jekyll site
+url: "https://WhatAProTease.github.io"
+baseurl: "/IZAZ3"  # very important for project sites
 remote_theme: bootstrapthemesco/jekyll-theme-affiliate
 
 plugins:
   - jekyll-remote-theme
+
