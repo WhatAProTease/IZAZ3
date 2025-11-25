@@ -1,7 +1,10 @@
-url: "https://WhatAProTease.github.io"
-baseurl: "/IZAZ3"  # very important for project sites
+title: My Affiliate Site
+description: My GitHub Pages Jekyll site
 remote_theme: bootstrapthemesco/jekyll-theme-affiliate
 
 plugins:
   - jekyll-remote-theme
 
+# Essential for project sites
+url: "https://WhatAProTease.github.io"
+baseurl: "/IZAZ3"
